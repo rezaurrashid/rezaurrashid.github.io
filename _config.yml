@@ -1,9 +1,9 @@
 # Basic Site Settings
 locale: "en-US"
-title: "Rezaur Rashid, PhD"
+title: "About Rezaur Rashid"
 title_separator: "-"
 name: "Rezaur Rashid"
-description: "Causal AI | XAI | Graph Neural Networks | AI in Healthcare | Cancer Research"
+description: # "Causal AI | XAI | Graph Neural Networks | AI in Healthcare | Cancer Research"
 nav:
   - title: "About"
     url: /about/
@@ -63,10 +63,10 @@ highlighter: rouge
 
 # Plugins (safe list for GitHub Pages)
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
