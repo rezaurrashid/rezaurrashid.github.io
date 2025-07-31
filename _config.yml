@@ -1,6 +1,6 @@
 # Basic Site Settings
 locale: "en-US"
-title: "About Rezaur Rashid"
+title: "Rezaur Rashid"
 title_separator: "-"
 name: "Rezaur Rashid"
 description: # "Causal AI | XAI | Graph Neural Networks | AI in Healthcare | Cancer Research"
@@ -24,7 +24,7 @@ author:
   pronouns: "he/him/his"
   bio: "Postdoctoral Research Fellow, UTHSC"
   location: "Memphis, TN, USA"
-  employer: "The University of Tennessee Health Science Center"
+  employer: "UT Health Science Center"
   email: "mrashid7@uthsc.edu"
   googlescholar: "https://scholar.google.com/citations?user=1ys5rQYAAAAJ&hl=en"
   orcid: "http://orcid.org/0000-0003-1343-5364"

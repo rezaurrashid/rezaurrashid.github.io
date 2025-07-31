@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Rezaur Rashid"
+title: "About Rezaur Rashid"
 author_profile: true
 redirect_from: 
   - /about/

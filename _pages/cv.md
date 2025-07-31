@@ -1,3 +1,4 @@
+<!-- 
 ---
 layout: page
 title: "CV"
@@ -9,11 +10,14 @@ redirect_from:
 
 [**Download my full CV (PDF)**](/files/CV/RezaurRashid_CV.pdf)
 
+-->
+
 <!--
 [Download my full CV (Google Drive)](https://drive.google.com/your-cv-link)
 -->
 
-_Last updated: July 2025_
+<!-- _Last updated: July 2025_ -->
+
 
 <!--
 
@@ -31,6 +35,8 @@ _Last updated: July 2025_
 Add more sections if you want 
 -->
 
+
+
 <!-------------------------------------------------------------------------------------------------------------------------------------->
 <!-------------------------------------------------------------------------------------------------------------------------------------->
 <!-------------------------------------------------------------------------------------------------------------------------------------->
@@ -46,7 +52,7 @@ Add more sections if you want
 
 
 
-<!-- ---
+---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -59,9 +65,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, UNC Charlotte, Charlotte, NC, USA 2024
+* B.S. in Computer Science and Engineering, BRAC University, Dhaka, Bangladesh, 2017
 
 Work experience
 ======
@@ -79,8 +84,15 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+
+> [**Download my full CV (PDF)**](/files/CV/RezaurRashid_CV.pdf)
+
+
+
+
+_Last updated: July 2025_
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
