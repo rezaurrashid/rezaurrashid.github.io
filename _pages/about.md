@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Profile Picture](/images/picture/profile.jpg){: style="width:140px;float:right; margin-left:20px; border-radius:50%;"}
+<!-- ![Profile Picture](/images/picture/profile.jpg){: style="width:140px;float:right; margin-left:20px; border-radius:50%;"} -->
 
 I am a Postdoctoral Scholar at the Center for Biomedical Informatics (CBMI), Department of Pediatrics, College of Medicine, University of Tennessee Health Science Center (UTHSC), Memphis.
 
