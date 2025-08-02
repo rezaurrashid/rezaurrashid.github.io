@@ -7,15 +7,15 @@
     </h2>
 
     {% if post.authors %}
-      <div><strong>Authors:</strong> {{ post.authors }}</div>
+      <div>{{ post.authors }}</div>
     {% endif %}
 
     {% if post.venue %}
       <div><em>{{ post.venue }}</em>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}</div>
     {% endif %}
 
-    {% if post.paperurl %}
-      <div><a href="{{ post.paperurl }}" target="_blank">Download Paper</a></div>
+<!--     {% if post.paperurl %}
+      <div><a href="{{ post.paperurl }}" target="_blank">Download Paper</a></div> -->
     {% endif %}
   </article>
 </div>

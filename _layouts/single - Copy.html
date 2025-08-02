@@ -47,14 +47,6 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
-        {% if page.authors %}
-          <div style="margin-top:1em;">Authors: {{ page.authors }}</div>
-        {% endif %}
-
-        {% if page.paperurl %}
-          <div style="margin-top:1em;"><a href="{{ page.paperurl }}" class="btn btn-primary" target="_blank">Download Full Paper</a></div>
-        {% endif %}
-
         {% if page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
         {% elsif page.citation and page.paperurl and page.slidesurl %}
@@ -91,7 +83,7 @@ layout: default
         {% include page__taxonomy.html %}
       </footer>
 
-      <!-- {% if page.share %}{% include social-share.html %}{% endif %} -->
+      {% if page.share %}{% include social-share.html %}{% endif %}
 
       {% include post_pagination.html %}
     </div>
