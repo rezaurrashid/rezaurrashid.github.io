@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">Find full list of publications on <a href="{{site.author.googlescholar}}">Google Scholar</a>. \n</div>
 {% endif %}
 
 {% include base_path %}
@@ -21,7 +21,6 @@ author_profile: true
       {% endif %}
       {% unless title_shown %}
         {{ "## " | append: category[1].title | markdownify }}
-        <hr />
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
