@@ -5,9 +5,9 @@ category: conferences
 permalink: /publication/rashid2023causal
 date: 2023-10-09 # Use the first day of the conference, or the publication date if you know it
 venue: "2023 IEEE 10th International Conference on Data Science and Advanced Analytics (DSAA)"
-paperurl: "https://ieeexplore.ieee.org/abstract/document/10302608" # <-- replace with actual IEEE paper URL if available
-<!-- excerpt: "Introduces methods for causal feature selection and a novel evaluation framework for causal metrics." -->
+paperurl: "https://ieeexplore.ieee.org/abstract/document/10302608" 
+# excerpt: "Introduces methods for causal feature selection and a novel evaluation framework for causal metrics."
 authors: "Rezaur Rashid, Jawad Chowdhury, Gabriel Terejanu"
-<!-- citation: "Rashid, R., Chowdhury, J., & Terejanu, G. (2023). Causal feature selection: Methods and a novel causal metric evaluation framework. In <i>2023 IEEE 10th International Conference on Data Science and Advanced Analytics (DSAA)</i> (pp. 1–9). IEEE." -->
+# citation: "Rashid, R., Chowdhury, J., & Terejanu, G. (2023). Causal feature selection: Methods and a novel causal metric evaluation framework. In <i>2023 IEEE 10th International Conference on Data Science and Advanced Analytics (DSAA)</i> (pp. 1–9). IEEE."
 ---
 In this paper, we introduce a novel causal feature selection (CFS) algorithm that leverages causal structure learning to identify a subset of causal features. Our approach involves employing a causal graph discovery method to represent the causal relationships among variables and the causal effects of features on the target variable. To evaluate the effectiveness of our proposed CFS algorithm, we introduce a new evaluation criterion based on causal metrics, offering a principled and rigorous approach to assess the performance of causal feature selection methods. 
