@@ -1,6 +1,6 @@
 # Basic Site Settings
 locale: "en-US"
-title: "RR."
+title: "REZAUR RASHID."
 title_separator: "-"
 name: "Rezaur Rashid"
 description: # "Causal AI | XAI | Graph Neural Networks | AI in Healthcare | Cancer Research"
@@ -41,7 +41,7 @@ publication_category:
   conferences:
     title: 'Conference Papers (Peer-Reviewed)'
   others:
-    title: 'Abstracts and Workshops (Peer-Reviewed)'
+    title: 'Abstracts and Workshop Papers (Peer-Reviewed)'
 
 # Only keep these includes for your main pages and files
 include:
