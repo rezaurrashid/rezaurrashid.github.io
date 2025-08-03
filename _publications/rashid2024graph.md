@@ -1,5 +1,5 @@
 ---
-title: "Graph neural networks for probabilistic causal discovery"
+title: "Graph Neural Networks for Probabilistic Causal Discovery"
 collection: publications
 category: others
 permalink: /publication/rashid2024graph

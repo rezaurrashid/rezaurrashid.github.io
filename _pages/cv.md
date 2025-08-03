@@ -14,27 +14,25 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Postdoctoral Research Fellow | September 2024 - Present
+  * Center for Biomedical Informatics (CBMI), Department of Pediatrics, College of Medicine, University of Tennessee Health Science Center (UTHSC)
+  * Memphis, TN, USA
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Research Assistant | August 2019 - August 2024
+  * University of North Carolina at Charlotte
+  * Charlotte, NC, USA
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
+
 
 > [**Download my full CV (PDF)**](/files/CV/RezaurRashid_CV.pdf)
 
 
 
 
-_Last updated: July 2025_
+_Last updated: August 2025_
+
+<!-- _Last updated: {{ "now" | date: '%Y-%m-%d' }}_ -->
   
 <!-- Skills
 ======
