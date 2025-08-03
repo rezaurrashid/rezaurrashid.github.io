@@ -40,8 +40,8 @@ publication_category:
     title: 'Journal Articles'
   conferences:
     title: 'Conference Papers (Peer-Reviewed)'
-  other:
-    title: 'Confernce Abstracts and Workshops (Peer-Reviewed)'
+  others:
+    title: 'Abstracts and Workshops (Peer-Reviewed)'
 
 # Only keep these includes for your main pages and files
 include:
