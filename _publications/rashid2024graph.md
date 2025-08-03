@@ -7,12 +7,7 @@ authors: "Rezaur Rashid, Gabriel Terejanu"
 date: 2024-07-19 # Use the first day of the conference, or the publication date if you know it
 venue: "9th Causal Inference Workshop at UAI 2024"
 paperurl: "https://openreview.net/forum?id=X52pu7VKVK" 
-bibtexurl: "@inproceedings{rashid2024graph,
-  title={Graph neural networks for probabilistic causal discovery},
-  author={Rashid, Rezaur and Terejanu, Gabriel},
-  booktitle={9th Causal Inference Workshop at UAI 2024},
-  year={2024}
-}"
+bibtexurl: "/files/bib/rashid2024graph.bib"
 citation: "Rashid, R., & Terejanu, G. (2024). Graph neural networks for probabilistic causal discovery. In 9th Causal Inference Workshop at UAI 2024."
 ---
 
