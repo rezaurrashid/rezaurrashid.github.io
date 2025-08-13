@@ -8,18 +8,19 @@ author_profile: true
 {% include base_path %}
 
 ---
-[**Download my full CV (PDF)**](/files/CV/RezaurRashid_CV.pdf)
+[**Download full CV (PDF)**](/files/CV/RezaurRashid_CV.pdf)
 
 ---
 
 
-### Education
+
+## Education
 ---
 * Ph.D. in Computer Science, UNC Charlotte, Charlotte, NC, USA \| 2024
 * B.S. in Computer Science and Engineering, BRAC University, Dhaka, Bangladesh \| 2017
 
 
-### Work experience
+## Work experience
 ---
 * **Postdoctoral Research Fellow**, Center for Biomedical Informatics (CBMI) \| September 2024 - Present
   * Department of Pediatrics, College of Medicine
@@ -39,7 +40,7 @@ author_profile: true
   * Bangladesh Univeristy, Dhaka, Bangladesh
 
 
-### Awards and Fellowships
+## Awards and Fellowships
 ---
 * Graduate Assistant Support Plan Scholarship (GASP), UNC Charlotte \| 2019-2024
 * Graduate School Summar Fellowship (GSSF), UNC Charlotte \| 2023
@@ -48,7 +49,7 @@ author_profile: true
 * Dean's List of Honor, BRAC University \| 2015, 2016
 
 
-### Professional Services
+## Professional Services
 ---
 * **TPC Reviewer**, IEEE International Joint Conference on Neural Networks (IJCNN) \| 2023-2025
 * **PC Member**, International Conference on Advances in Social Networks Analysis and Mining (ASONAM) \| 2024-2025
