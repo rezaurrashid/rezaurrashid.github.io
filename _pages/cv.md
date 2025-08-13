@@ -7,6 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
+---
+[**Download my full CV (PDF)**](/files/CV/RezaurRashid_CV.pdf)
+
+---
+
+
 ### Education
 ---
 * Ph.D. in Computer Science, UNC Charlotte, Charlotte, NC, USA \| 2024
@@ -49,16 +55,11 @@ author_profile: true
 
 
 
----
-[**Download my full CV (PDF)**](/files/CV/RezaurRashid_CV.pdf)
----
 
 
 
 
-
-
-<!-- _Last updated: August 2025_ -->
+<!-- > _Last updated: August, 2025_ -->
 
 > _Last updated: {{ "now" | date: '%B, %Y' }}_
   
