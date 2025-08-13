@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/rashid2025simulating
 authors: "Rezaur Rashid, Saba Kheirinejad, Brianna M White, Soheil Hashtarkhani, Parnian Kheirkhah Rahimabad, Fekede A Kumsa, Lokesh Chinthala, Janet A Zink, Christopher L Brett, Robert L Davis, David L Schwartz, Arash Shaban-Nejad"
-date: 2025-10-20 # Use the first day of the conference, or the publication date if you know it
+date: 2025-07-20 # Use the first day of the conference, or the publication date if you know it
 venue: "EFMI Special Topic Conference (STC) 2025: Good Evaluation - Better Digital Health"
 paperurl: "hhttps://stc2025.efmi.org/home-page" 
 bibtexurl: "/files/bib/rashid2025simulating.bib"
