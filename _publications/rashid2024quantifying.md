@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/rashid2024quantifying
 authors: "Rezaur Rashid, Joshua Melton, Ouldouz Ghorbani, Siddharth Krishnan, Shannon Reid, Gabriel Terejanu"
 date: 2024-12-18 # Use the first day of the conference, or the publication date if you know it
-venue: "2024 International Conference on Machine Learning and Applications (ICMLA)"
+venue: "International Conference on Machine Learning and Applications (ICMLA)"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/10903265" 
 bibtexurl: "/files/bib/rashid2024quantifying.bib"
 citation: "Rashid, R., Melton, J., Ghorbani, O., Krishnan, S., Reid, S., & Terejanu, G. (2024, December). Quantifying Influencer Impact on Affective Polarization. In 2024 International Conference on Machine Learning and Applications (ICMLA) (pp. 1135-1140). IEEE."

@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/rashid2022causal
 authors: "Rezaur Rashid, Jawad Chowdhury, Gabriel Terejanu"
 date: 2022-12-13 # Use the first day of the conference, or the publication date if you know it
-venue: "2022 21st IEEE International Conference on Machine Learning and Applications (ICMLA)"
+venue: "21st IEEE International Conference on Machine Learning and Applications (ICMLA)"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/10069122" 
 bibtexurl: "/files/bib/rashid2022causal.bib"
 citation: "Rashid, R., Chowdhury, J., & Terejanu, G. (2022, December). From causal pairs to causal graphs. In 2022 21st IEEE International Conference on Machine Learning and Applications (ICMLA) (pp. 802-807). IEEE."

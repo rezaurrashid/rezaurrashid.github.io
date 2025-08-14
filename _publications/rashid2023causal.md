@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/rashid2023causal
 authors: "Rezaur Rashid, Jawad Chowdhury, Gabriel Terejanu"
 date: 2023-10-09 # Use the first day of the conference, or the publication date if you know it
-venue: "2023 IEEE 10th International Conference on Data Science and Advanced Analytics (DSAA)"
+venue: "IEEE 10th International Conference on Data Science and Advanced Analytics (DSAA)"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/10302608" 
 bibtexurl: "/files/bib/rashid2023causal.bib"
 citation: "Rashid, R., Chowdhury, J., & Terejanu, G. (2023, October). Causal feature selection: Methods and a novel causal metric evaluation framework. In 2023 IEEE 10th International Conference on Data Science and Advanced Analytics (DSAA) (pp. 1-9). IEEE."

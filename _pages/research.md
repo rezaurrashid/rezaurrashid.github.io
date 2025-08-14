@@ -50,20 +50,19 @@ My research integrates **causal AI**, **explainable AI (XAI)**, **graph neural n
 - Proposed probabilistic approach leveraging cause-effect pairs for causal discovery to improve efficiency and scalability compared to traditional methods.  
 - **Publication:** [IEEE ICMLA 2022](https://ieeexplore.ieee.org/abstract/document/10069122).
 
----
-
 
 ---
-## Graduate Academic Research (Course-Based)
+## Academic Research (Course-Based)
 ---
+
+### Graduate-Level
 - **Sentiment Analysis of Social Media Responses Using Spark & Python** — Implemented multi-class SVM for Twitter/X sentiment classification, achieving 72.83% accuracy, with distributed processing via Spark. [GitHub](https://github.com/rezaurrashid/ITCS8190_CloudComputing_Fall2022/tree/main/final%20project/code).  
 - **COVID-19 Mortality-Rate Forecasting in the U.S.** — Time-series modeling in R with predictive insights for public health decision-making. [GitHub](https://github.com/rezaurrashid/BINF8310-Spring2022/tree/master/Project).  
 - **Information-Theoretic Analysis of DNN & CNN Models** — Explored trustworthiness and theoretical limitations of deep neural networks.  
 - **Pneumonia Detection from X-ray Images** — Developed CNN-based predictive model with advanced image preprocessing. [GitHub](https://github.com/khyatimahajan/ml_project_fall_2019).
 
 ---
-## Undergraduate Academic Research (Course-Based)
----
+### Undergraduate-Level
 - **Human Fall Control System for Disabled People Using Double Inverted Pendulum** — Designed assistive system for mobility-impaired patients, incorporating mechanical modeling and control algorithms. Publication: [IEEE ICEEICT 2018](https://ieeexplore.ieee.org/abstract/document/8628130).  
 - **Library Book Finder Robot with Self-Navigation** — Built autonomous navigating robot for book retrieval. Publication: [IEEE EICT 2017](https://ieeexplore.ieee.org/abstract/document/8275140). 
 - **Comparative Analysis of Gesture Recognition Methods** — Evaluated light-dependent vs ultrasonic techniques. Publication: [IEEE ICEEICT 2016](https://ieeexplore.ieee.org/abstract/document/7873101).
@@ -74,6 +73,6 @@ My research integrates **causal AI**, **explainable AI (XAI)**, **graph neural n
 > **Interested in collaboration or learning more about my research?**  
 > I welcome collaborations with clinicians, social scientists, industry partners, and researchers in domains spanning healthcare, social media dynamics, and business analytics. My expertise includes causal AI, explainable AI (XAI), graph neural networks (GNNs), and large language models (LLMs) — with applications ranging from cancer outcomes and health disparities to large-scale social network analysis and business decision intelligence. If your work intersects with these areas — or if you see potential for novel applications — I’d be happy to connect. [Email me](mailto:mrashid7@uthsc.edu).
 
-
+---
 <!-- AI-Driven Analytics for Radiation Therapy Interruptions -->
 <!-- Empathic AI for Oncology Patient Support -->

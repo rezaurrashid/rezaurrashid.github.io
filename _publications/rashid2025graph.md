@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/rashid2025graph
 authors: "Rezaur Rashid, Gabriel Terejanu"
 date: 2025-07-22 # Use the first day of the conference, or the publication date if you know it
-venue: "17th International Conference on Knowledge Discovery and Information Retrieval (KDIR 2025), as part of 17th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K 2025)"
+venue: "International Conference on Knowledge Discovery and Information Retrieval (KDIR 2025), as part of 17th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K 2025)"
 paperurl: "https://kdir.scitevents.org/Home.aspx" 
 bibtexurl: "/files/bib/rashid2025graph.bib"
 citation: "Rashid, R., & Terejanu, G. (2025). From Observations to Causations: A GNN-based Probabilistic Prediction Framework for Causal Discovery. In 17th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management: KDIR 2025 (to appear). SciTePress."
