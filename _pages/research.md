@@ -54,7 +54,7 @@ My research integrates **causal AI**, **explainable AI (XAI)**, **graph neural n
 
 
 ---
-## Graduate (Course) Research Projects
+## Graduate Academic Research (Course-Based)
 ---
 - **Sentiment Analysis of Social Media Responses Using Spark & Python** — Implemented multi-class SVM for Twitter/X sentiment classification, achieving 72.83% accuracy, with distributed processing via Spark. [GitHub](https://github.com/rezaurrashid/ITCS8190_CloudComputing_Fall2022/tree/main/final%20project/code).  
 - **COVID-19 Mortality-Rate Forecasting in the U.S.** — Time-series modeling in R with predictive insights for public health decision-making. [GitHub](https://github.com/rezaurrashid/BINF8310-Spring2022/tree/master/Project).  
@@ -62,7 +62,7 @@ My research integrates **causal AI**, **explainable AI (XAI)**, **graph neural n
 - **Pneumonia Detection from X-ray Images** — Developed CNN-based predictive model with advanced image preprocessing. [GitHub](https://github.com/khyatimahajan/ml_project_fall_2019).
 
 ---
-## Undergraduate (Course) Research Projects
+## Undergraduate Academic Research (Course-Based)
 ---
 - **Human Fall Control System for Disabled People Using Double Inverted Pendulum** — Designed assistive system for mobility-impaired patients, incorporating mechanical modeling and control algorithms. Publication: [IEEE ICEEICT 2018](https://ieeexplore.ieee.org/abstract/document/8628130).  
 - **Library Book Finder Robot with Self-Navigation** — Built autonomous navigating robot for book retrieval. Publication: [IEEE EICT 2017](https://ieeexplore.ieee.org/abstract/document/8275140). 
