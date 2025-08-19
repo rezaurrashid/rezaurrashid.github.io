@@ -71,7 +71,7 @@ My research integrates **causal AI**, **explainable AI (XAI)**, **graph neural n
 ---
 
 > **Interested in collaboration or learning more about my research?**  
-> I welcome collaborations with clinicians, social scientists, industry partners, and researchers in domains spanning healthcare, social media dynamics, and business analytics. My expertise includes causal AI, explainable AI (XAI), graph neural networks (GNNs), and large language models (LLMs) — with applications ranging from cancer outcomes and health disparities to large-scale social network analysis and business decision intelligence. If your work intersects with these areas — or if you see potential for novel applications — I’d be happy to connect. [Email me](mailto:mrashid7@uthsc.edu).
+> I welcome collaborations with clinicians, social scientists, industry partners, and researchers tackling high-impact, data-driven challenges. My work combines advanced AI methods — including causality, XAI, GNNs, and LLMs — with interdisciplinary insights to produce actionable, interpretable solutions. Whether your focus is healthcare, social systems, or emerging domains, I’m always open to exploring novel problems and innovative applications together. [Email me](mailto:mrashid7@uthsc.edu).
 
 ---
 <!-- AI-Driven Analytics for Radiation Therapy Interruptions -->
