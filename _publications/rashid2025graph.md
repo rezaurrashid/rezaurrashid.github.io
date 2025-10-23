@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/rashid2025graph
 authors: "Rezaur Rashid, Gabriel Terejanu"
-date: 2025-07-22 # Use the first day of the conference, or the publication date if you know it
+date: 2025-10-22 # Use the first day of the conference, or the publication date if you know it
 venue: "17th International Conference on Knowledge Discovery and Information Retrieval (KDIR 2025), as part of 17th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K 2025)"
 paperurl: "https://kdir.scitevents.org/Home.aspx" 
 bibtexurl: "/files/bib/rashid2025graph.bib"
