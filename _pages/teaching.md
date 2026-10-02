@@ -32,33 +32,20 @@ Taught undergraduate courses in **Algorithms and Data Structures, Pattern Recogn
 
 I mentor students in developing research questions, designing computational studies, evaluating AI systems, interpreting results, and communicating findings through manuscripts and conference presentations.
 
-### Krutik Nigam
-*Medical Student Researcher, UTHSC* | *2026–Present*
+* **Krutik Nigam**, Medical Student Researcher, UTHSC | *2026–Present*
+  * Mentoring research extending our explainable AI framework for radiation therapy interruptions toward **intervention-oriented modeling**. The project maps potentially modifiable risk factors to candidate supportive-care interventions and uses model explanations and constrained perturbation simulations to examine how changes in patient-level factors affect predicted treatment-interruption risk.
 
-Mentoring research extending our explainable AI framework for radiation therapy interruptions toward **intervention-oriented modeling**. The project maps potentially modifiable risk factors to candidate supportive-care interventions and uses model explanations and constrained perturbation simulations to examine how changes in patient-level factors affect predicted treatment-interruption risk.
+* **Raneem Ammar**, Medical Student Research Fellow, UTHSC | *Summer 2026*
+  * Mentored research examining communication complexity and AI navigation performance in simulated oncology conversations.
+  * *Outcome:* Student-led paper accepted at *EFMI STC 2026*, Athens, Greece.
 
-### Raneem Ammar
-*Medical Student Research Fellow, UTHSC* | *Summer 2026*
+* **Thrisha Mote**, Medical Student Research Fellow, UTHSC | *Summer 2026**
+  * Mentored research comparing automated dialogue metrics with expert clinical assessments of simulated oncology patient–AI conversations.
+  * *Outcome:* Student-led manuscript prepared for submission to *BMJ Health & Care Informatics*.
 
-Mentored research examining communication complexity and AI navigation performance in simulated oncology conversations.
+* **Miguel**, Graduate Student, Technical University of Denmark (DTU) | *Spring 2025*
+  * Co-mentored research using variational autoencoders to identify latent metabotypes in UK Biobank metabolomics data.
+  * *Advised by Parvaneh Ebrahimi, Technical University of Denmark, in collaboration with Arash Shaban-Nejad.*
 
-**Outcome:** Student-led paper accepted at *EFMI STC 2026*, Athens, Greece.
-
-### Thrisha Mote
-*Medical Student Research Fellow, UTHSC* | *Summer 2026**
-
-Mentored research comparing automated dialogue metrics with expert clinical assessments of simulated oncology patient–AI conversations.
-
-**Outcome:** Student-led manuscript prepared for submission to *BMJ Health & Care Informatics*.
-
-### Miguel
-*Graduate Student, Technical University of Denmark (DTU)* | *Spring 2025*
-
-Co-mentored research using variational autoencoders to identify latent metabotypes in UK Biobank metabolomics data.
-
-*Advised by Parvaneh Ebrahimi, Technical University of Denmark, in collaboration with Arash Shaban-Nejad.*
-
-### Sai K. Nandipati
-*Graduate Student, UTHSC* | *Fall 2024*
-
-Co-mentored research on synthetic data generation and causal structure learning for AI model development and evaluation.
+* **Sai K. Nandipati**, Graduate Student, UTHSC | *Fall 2024*
+  * Co-mentored research on synthetic data generation and causal structure learning for AI model development and evaluation.
