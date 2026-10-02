@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 My research develops and applies **causal AI**, **explainable AI (XAI)**, **graph neural networks (GNNs)**, and **large language models (LLMs)** to complex data-driven problems. A central focus of my current work is building interpretable and clinically useful AI systems that integrate electronic health records, social determinants of health, patient-reported information, and unstructured data to support healthcare decision-making.
+---
 
 ## Current Research
 
@@ -52,6 +53,7 @@ I am investigating computational approaches for identifying candidate **off-labe
 I am collaborating with clinicians and informatics researchers on a large-scale EHR study of **Menière's disease and related vestibular disorders**. The research examines clinical factors associated with disease onset and develops longitudinal phenotypes for characterizing disease severity and progression.
 
 The work combines diagnostic histories, symptoms, healthcare utilization, and treatment trajectories to study clinically meaningful outcomes such as symptom burden, disease extent, treatment escalation, and acute-care utilization. A parallel analysis examines potential clinical triggers and comorbidities associated with Menière's disease compared with patients undergoing evaluation for related vestibular conditions.
+---
 
 ## Foundational and Prior Research
 
@@ -75,6 +77,7 @@ I have applied causal inference, network analysis, and language models to study 
 During my doctoral research and an industry collaboration with **Lowe's Companies, Inc.**, I worked on causal and automated feature-generation methods for operational decision support, with applications to supply-chain and business outcomes.
 
 **Open-source software:** [Causal Feature Selection](https://bitbucket.org/uqlab/causal_feature_selection/src/master/) | [Automated Feature Synthesis](https://bitbucket.org/uqlab/automated_feature_synthesis/src/master/)
+---
 
 ## Earlier Academic Projects
 
