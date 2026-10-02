@@ -22,6 +22,7 @@ My research integrates **causal AI**, **explainable AI (XAI)**, **graph neural n
 
 ### Women’s Health Social-Media Sentiment & Peer-Support Analysis
 - Analyzing large-scale Reddit datasets related to maternal health: pregnancy weight management, and peer-support communities using multi-model sentiment benchmarking (LLM-based + Transformer-based); conversation-cascade graph analysis to model sentiment flow and peer influence; topic modeling to assess sentiment shift depth and valuation of peer-support effectiveness.
+- **Publication:** [JMIR Formative Research](https://preprints.jmir.org/preprint/92821/accepted) (preprint; forthcoming/accepted)
 
 ### Off-Label Drug–Condition Relationship Prediction
 - Developing causal inference and correlation-based frameworks for predicting candidate off-label uses for existing drugs, employing statistical association measures, semantic similarity, and neighborhood-based graph methods for candidate ranking.
@@ -33,11 +34,11 @@ My research integrates **causal AI**, **explainable AI (XAI)**, **graph neural n
 
 ### Causal Modeling of Affective Polarization in Social Media
 - Developed a counterfactual causal modeling framework to understand affective polarization on *Twitter/X*.  
-- **Publication:** [IEEE ICMLA 2024](https://ieeexplore.ieee.org/abstract/document/10903265); ASONAM-FAB 2025 (to appear).
+- **Publication:** [IEEE ICMLA 2024](https://ieeexplore.ieee.org/abstract/document/10903265); [ASONAM 2025](https://link.springer.com/chapter/10.1007/978-3-032-14107-1_35).
 
 ### Graph Neural Networks for Probabilistic Causal Discovery
 - Created scalable causal discovery framework using probabilistic GNNs.  
-- **Publication:** [UAI 2024 Causal Inference Workshop](https://openreview.net/forum?id=X52pu7VKVK); [KDIR 2025](https://arxiv.org/pdf/2507.20349) (to appear).
+- **Publication:** [UAI 2024 Causal Inference Workshop](https://openreview.net/forum?id=X52pu7VKVK); [KDIR 2025](https://www.scitepress.org/Papers/2025/137204/137204.pdf).
 
 ### Modeling the "Why" in Business Operations (Lowe’s)
 - Businesses collect vast amounts of data, which they leverage with advanced modeling techniques to develop actions to enhance their operations. The goal of this research is to create an AI engine that provides managers with actionable recommendations to produce a desired effect on key performance indicators, e.g. supply chain metrics. Open-Source Python Library: [Automated Feature Synthesis](https://bitbucket.org/uqlab/automated_feature_synthesis/src/master/); [Causal Feature Selection](https://bitbucket.org/uqlab/causal_feature_selection/src/master/).
