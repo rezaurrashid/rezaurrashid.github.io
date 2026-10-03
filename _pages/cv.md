@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ---
-[**Download full CV (PDF)**](/files/CV/Rezaur Rashid -CV.pdf)
+[**Download full CV (PDF)**](/files/CV/RezaurRashid_CV.pdf)
 
 ---
 
