@@ -15,7 +15,6 @@ author_profile: true
 ## Education
 ---
 * **Ph.D. in Computer Science**, UNC Charlotte, Charlotte, NC, USA \| 2024
-  * GPA: 3.90/4.00
   * Dissertation: *Beyond Causal Pairs: A Probabilistic Approach to Causal Structure Learning from Cause-Effect Pair Relationships Using Graph Neural Network*
   * Advisor: Gabriel Terejanu, Ph.D.
 * **B.Sc. in Computer Science and Engineering**, BRAC University, Dhaka, Bangladesh \| 2017

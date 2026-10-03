@@ -78,7 +78,7 @@ I have applied causal inference, network analysis, and language models to study 
 ### Causal Analytics for Business Operations
 During my doctoral research and an industry collaboration with **Lowe's Companies, Inc.**, I worked on causal and automated feature-generation methods for operational decision support, with applications to supply-chain and business outcomes.
 
-**Open-source software:** [Causal Feature Selection](https://bitbucket.org/uqlab/causal_feature_selection/src/master/) | [Automated Feature Synthesis](https://bitbucket.org/uqlab/automated_feature_synthesis/src/master/)
+**Open-source Python Library:** [Causal Feature Selection](https://bitbucket.org/uqlab/causal_feature_selection/src/master/) \| [Automated Feature Synthesis](https://bitbucket.org/uqlab/automated_feature_synthesis/src/master/)
 
 <hr>
 
