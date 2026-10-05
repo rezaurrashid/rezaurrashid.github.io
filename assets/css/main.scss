@@ -81,3 +81,47 @@
     max-width: 100%;
   }
 }
+
+
+/* Compact publication listing */
+.publication-entry {
+  position: relative;
+  margin: 0 0 1.4rem 1.15rem;
+}
+
+.publication-entry::before {
+  content: "•";
+  position: absolute;
+  left: -1.05rem;
+  top: 0.08rem;
+  font-size: 1.05rem;
+  color: var(--global-text-color);
+}
+
+.publication-title {
+  margin: 0 0 0.25rem;
+  font-size: 1.05em;
+  line-height: 1.35;
+  font-weight: 600;
+}
+
+.publication-title a {
+  text-decoration: none;
+}
+
+.publication-title a:hover {
+  text-decoration: underline;
+}
+
+.publication-authors {
+  margin: 0 0 0.15rem;
+  font-size: 0.94em;
+  line-height: 1.4;
+}
+
+.publication-venue {
+  margin: 0;
+  font-size: 0.94em;
+  line-height: 1.4;
+  color: var(--global-text-color-light);
+}

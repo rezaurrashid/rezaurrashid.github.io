@@ -33,7 +33,7 @@ author_profile: true
 
 ## Teaching
 ---
-* **Guest Lecturer**, IPEH 811: AI in Medicine and Health Research, UTHSC \| Fall 2026
+* **Guest Lecturer**, AI in Medicine and Health Research, UTHSC \| Fall 2026
   * Delivered a two-hour invited lecture, *AI in Population Health: Mapping Geography, Access, and Care Delivery*.
 * **Graduate Teaching Assistant**, Network-Based Application Development, UNC Charlotte \| Summer 2020
 * **Lecturer**, Bangladesh University \| 2017-2019

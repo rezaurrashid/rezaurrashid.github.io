@@ -17,7 +17,7 @@ My teaching and mentoring are grounded in connecting computational concepts with
 Delivered a two-hour invited lecture, **“AI in Population Health: Mapping Geography, Access, and Care Delivery,”** covering geospatial health analytics, access to care, clinical AI, multimodal data, large language models, and responsible evaluation.
 
 ### Graduate Teaching Assistant | UNC Charlotte
-*Network-Based Application Development (ITIS 4166/5166)* | *Summer 2020*
+*ITIS 4166/5166: Network-Based Application Development* | *Summer 2020*
 
 Co-taught a combined undergraduate and graduate course with 32 students and supported the transition to remote instruction during the COVID-19 pandemic.
 

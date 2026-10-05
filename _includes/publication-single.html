@@ -1,0 +1,15 @@
+<div class="publication-entry">
+  <h3 class="publication-title" itemprop="headline">
+    <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+  </h3>
+
+  {% if post.authors %}
+    <div class="publication-authors">{{ post.authors }}</div>
+  {% endif %}
+
+  {% if post.venue %}
+    <div class="publication-venue">
+      <em>{{ post.venue }}</em>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+    </div>
+  {% endif %}
+</div>
