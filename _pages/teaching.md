@@ -39,7 +39,7 @@ I mentor students in developing research questions, designing computational stud
   * Mentored research examining communication complexity and AI navigation performance in simulated oncology conversations.
   * *Outcome:* Student-led paper accepted at *EFMI STC 2026*, Athens, Greece.
 
-* **Thrisha Mote**, Medical Student Research Fellow, UTHSC | *Summer 2026**
+* **Thrisha Mote**, Medical Student Research Fellow, UTHSC | *Summer 2026*
   * Mentored research comparing automated dialogue metrics with expert clinical assessments of simulated oncology patient–AI conversations.
   * *Outcome:* Student-led manuscript prepared for submission to *BMJ Health & Care Informatics*.
 
