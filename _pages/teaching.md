@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-My teaching and mentoring are grounded in connecting computational concepts with meaningful research and real-world problems. My experience spans university teaching in computer science, invited instruction in biomedical and population health, and research mentoring of medical and graduate students.
+My teaching and mentoring are grounded in connecting computational concepts with meaningful research and real-world problems. My experience spans university teaching in computer science, invited instruction in biomedical and population health, and research mentoring of high school, medical, and graduate students.
 
 ---
 
@@ -42,6 +42,9 @@ I mentor students in developing research questions, designing computational stud
 * **Thrisha Mote**, Medical Student Research Fellow, UTHSC | *Summer 2026**
   * Mentored research comparing automated dialogue metrics with expert clinical assessments of simulated oncology patient–AI conversations.
   * *Outcome:* Student-led manuscript prepared for submission to *BMJ Health & Care Informatics*.
+
+* **Three High School Students**, ENRICH Summer Program, UTHSC | *Summer 2026*
+  * Mentored a team of three high school students in designing and building a modular, AI-powered research platform for our lab, using locally run large language models.
 
 * **Miguel**, Graduate Student, Technical University of Denmark (DTU) | *Spring 2025*
   * Co-mentored research using variational autoencoders to identify latent metabotypes in UK Biobank metabolomics data.
